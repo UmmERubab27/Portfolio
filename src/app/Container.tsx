@@ -18,7 +18,7 @@ const Container = (props: Props) => {
                 </div>
             </div>
             <div className='p-4 pl-0 mt-5 sm:mt-20'>
-                <p className='text-xl sm:text-2xl md:text-xl lg:text-2xl xl:text-3xl text-purple-400'>Welcome To My Portfoilo</p>
+                <p className='text-xl sm:text-2xl md:text-xl lg:text-2xl xl:text-3xl text-purple-400'>Welcome To My Portfolio</p>
                 <h1 className='text-4xl sm:text-5xl md:text-4xl lg:text-5xl xl:text-6xl pt-2  lg:pt-6 text-orange-200'>I&apos;m Rubab Nasir<p className='text-xl sm:text-2xl md:text-xl lg:text-2xl xl:text-3xl py-4 text-pink-800'>A Front End Developer </p></h1>
                 <p className='text-base sm:text-xl md:text-base lg:text-xl xl:text-2xl lg:pt-6 text-blue-200'>bringing imagination to live website</p>
                 {/* <div className='pt-10'>
